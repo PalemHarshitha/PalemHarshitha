@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Harshitha Palem</h1>
 <h3 align="center">A passionate Full Stack developer from India</h3>
- <img src="watermarked_preview.mp4" alt="Full Stack Developer GIF" class="gif">
+ <img src="C:\Users\palem_dgsd7xx\Downloads\watermarked_preview.mp4" alt="Full Stack Developer GIF" class="gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=palemharshitha&label=Profile%20views&color=0e75b6&style=flat" alt="palemharshitha" /> </p>
 
