@@ -10,19 +10,19 @@
 
 ### 🧠 About Me
 
-- 🔭 I recently completed my **B.Tech in Computer Science**.
+- 🔭 I have completed **B.Tech in Computer Science**.
 - 🌱 I'm exploring the world of **Full Stack Development**.
-- 🎓 Completed **Python Full Stack @ PySpiders** | **Crash Python by Google (Coursera)**.
+- 🎓 Completed **Python Full Stack @ QSpiders** | **Crash Python by Google (Coursera)**.
 - 👨‍💻 I enjoy building both **front-end & back-end** projects.
 - ✨ Interested in **Real-Time Systems** and **Problem Solving**.
-- 💬 Ask me about **Python, SQL, JavaScript,HTML,CSS**.
+- 💬 Ask me about **Python, SQL, JavaScript, HTML, CSS, Django**.
 
 ---
 
 ### 🚀 Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,py,django,mysql,github" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,py,mysql,djangogithub" />
 </p>
 
 ---
@@ -50,9 +50,9 @@
 
 | Project | Tech Stack | Description |
 |--------|-------------|-------------|
-| **Stress Monitoring System** | `Python`, `IoT`, `Sensors`, `Flask` | Real-time stress tracking using biometric data |
-| **Portfolio Website** | `React`, `Tailwind`, `JavaScript` | Responsive and animated personal portfolio |
-| **Todo App** | `Node.js`, `Express`, `MongoDB` | Full CRUD-based productivity app |
+| **Stress Monitoring System** | `Python`, `IoT`, `Sensors` `Machine learning algorithm`| Real-time stress tracking using biometric data |
+| **Portfolio Website** | `JavaScript` | Responsive and animated personal portfolio |
+| **Todo App** | `HTML` `CSS` `Java Script` | Full CRUD-based productivity app |
 
 ---
 
