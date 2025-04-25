@@ -1,69 +1,52 @@
-<!-- Profile Header -->
-<h1 align="center">Hi there, I'm Harshitha 👋</h1>
-<h3 align="center">A Passionate Full Stack Developer & Tech Enthusiast from India 🇮🇳</h3>
+<h1 align="center">Hi 👋, I'm Harshitha Palem</h1>
+<h3 align="center">A Passionate Full Stack Developer from India 🇮🇳</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&center=true&width=435&lines=Code.+Build.+Create.+Repeat.;Full+Stack+Developer+%F0%9F%92%BB;Tech+Lover+%E2%9D%A4%EF%B8%8F;IoT+Enthusiast+%F0%9F%94%8C" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=F75C7E&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;Python+%7C+SQL+%7C+JavaScript;Building+tech+with+purpose+%F0%9F%92%BB" alt="Typing SVG" />
+</p>
+
+<p align="left"> 
+  <img src="https://komarev.com/ghpvc/?username=palemharshitha&label=Profile%20views&color=0e75b6&style=flat" alt="palemharshitha" /> 
 </p>
 
 ---
 
-### 🧠 About Me
+### 👩‍💻 About Me
 
-- 🔭 I have completed **B.Tech in Computer Science**.
-- 🌱 I'm exploring the world of **Full Stack Development**.
-- 🎓 Completed **Python Full Stack @ QSpiders** | **Crash Python by Google (Coursera)**.
-- 👨‍💻 I enjoy building both **front-end & back-end** projects.
-- ✨ Interested in **Real-Time Systems** and **Problem Solving**.
-- 💬 Ask me about **Python, SQL, JavaScript, HTML, CSS, Django**.
+- 🔭 I’m currently working on **Full Stack Development Projects**.
+- 📚 I recently **completed a Full Stack Developer course at PySpiders**.
+- 🌱 Learning & building with **Python, SQL, HTML, CSS, JavaScript**.
+- 🤝 Looking to collaborate on **Front-end, Back-end Projects**.
+- 💼 Portfolio: [GitHub Projects](https://github.com/PalemHarshitha/My_portfolio)
+- 📄 Resume: [View my resume](https://drive.google.com/file/d/1-uSUTg1R-wpWpITSFZz77BuJiQ6KWsRw/view)
+- 📫 Reach me at **palemharshitha@gmail.com**
 
 ---
 
-### 🚀 Tech Stack
+### 🌐 Connect With Me
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,py,mysql,djangogithub" />
+<p align="left">
+  <a href="https://www.linkedin.com/in/palem-harshitha-b41050229/" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="palemharshitha" height="30" width="40" />
+  </a>
+  <a href="https://github.com/PalemHarshitha" target="blank">
+    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" alt="palemharshitha" height="30" width="40" />
+  </a>
+  
+</p>
+
+
+---
+
+### 🛠️ Languages & Tools
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,js,py,django,bootstrap,mysql,github,vscode" />
 </p>
 
 ---
 
-### 📈 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=palemharshitha&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=palemharshitha&theme=radical" alt="GitHub Streak" />
-</p>
 
----
 
-### 🌐 Let's Connect
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/your-linkedin" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="mailto:your.email@example.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://www.instagram.com/your-instagram"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
-</p>
-
----
-
-### 🧑‍💻 My Recent Projects
-
-| Project | Tech Stack | Description |
-|--------|-------------|-------------|
-| **Stress Monitoring System** | `Python`, `IoT`, `Sensors` `Machine learning algorithm`| Real-time stress tracking using biometric data |
-| **Portfolio Website** | `JavaScript` | Responsive and animated personal portfolio |
-| **Todo App** | `HTML` `CSS` `Java Script` | Full CRUD-based productivity app |
-
----
-
-### 📌 Pinned Projects
-
-<p align="center">
-  <a href="https://github.com/yourusername/yourproject"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=yourproject&theme=radical" /></a>
-  <a href="https://github.com/yourusername/anotherproject"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=anotherproject&theme=radical" /></a>
-</p>
-
----
-
-*Made with ❤️ by Harshitha*
-
+*✨ Thanks for visiting my profile! Let's build something amazing together.* 
