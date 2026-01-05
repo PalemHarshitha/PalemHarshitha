@@ -89,7 +89,7 @@ Read more here: [Setting up a custom domain](https://docs.lovable.dev/tips-trick
 
 - 🔭 I’m currently working on **Full Stack Development Projects**.
 - 📚 I recently **completed a Full Stack Developer course at PySpiders**.
-- 🌱 Learning & building with **Python, SQL, HTML, CSS, JavaScript**.
+- 🌱 Learning & building with **Python, SQL, HTML, CSS, JavaScript,Excel**.
 - 🤝 Looking to collaborate on **Front-end, Back-end Projects**.
 - 💼 Portfolio: [GitHub Projects](https://github.com/PalemHarshitha/My_portfolio)
 - 📄 Resume: [View my resume](https://drive.google.com/file/d/1-uSUTg1R-wpWpITSFZz77BuJiQ6KWsRw/view)
