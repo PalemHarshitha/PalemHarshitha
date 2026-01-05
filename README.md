@@ -49,5 +49,4 @@
 
 
 
-*✨ Thanks for visiting my profile! Let's build something amazing together.* 
->>>>>>> 9854a0c3de30a5ace077e29a5c483eb938bed9ee
+*✨ Thanks for visiting my profile! Let's build something amazing together.*
