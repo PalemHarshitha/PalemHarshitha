@@ -17,7 +17,7 @@
 - 🌱 Learning & building with **Python, SQL, HTML, CSS, JavaScript,Excel**.
 - 🤝 Looking to collaborate on **Front-end, Back-end Projects**.
 - 💼 Portfolio: [GitHub Projects](https://github.com/PalemHarshitha/My_portfolio)
-- 📄 Resume: [View my resume](https://drive.google.com/file/d/1-uSUTg1R-wpWpITSFZz77BuJiQ6KWsRw/view)
+- 📄 Resume: [View my resume](https://drive.google.com/file/d/1HRfq2b8nZM5g46l2lVpsL1LNS_7I6X0Q/view?usp=drivesdk)
 - 📫 Reach me at **palemharshitha@gmail.com**
 - Lovable: https://lovable.dev/projects/d2b865fe-2a4c-4fcb-a8b6-783fc9f78ca1
 
